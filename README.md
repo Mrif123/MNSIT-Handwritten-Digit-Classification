@@ -11,6 +11,10 @@ This project demonstrates the end-to-end process of:
 
 This project serves as an excellent foundation for learning computer vision, neural networks, and practical model deployment.  
 
+<img width="590" height="498" alt="Image" src="https://github.com/user-attachments/assets/0f1ac248-0c42-4278-9373-d79ce02dbdf5" />
+<img width="758" height="409" alt="Image" src="https://github.com/user-attachments/assets/aa1a60f2-5ffa-4b1f-86ad-5ac0a8d57448" />
+<img width="263" height="270" alt="Image" src="https://github.com/user-attachments/assets/12215601-ebab-465a-8ef3-c0f17aef7c42" />
+
 ---
 
 ## ⚙️ Installation Instructions  
